@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Mobile Application Developer | Game Developer</h3>
 
 <p align="center">
-  I am a Software Engineer with 4+ years of experience building production-ready mobile applications, games, and interactive software. My work focuses on clean application logic, real-time interaction systems, backend integrations, analytics, crash monitoring, performance optimization, and user-focused software experiences.
+  I am a Software Engineer with 3+ years of experience building production-ready mobile applications, games, and interactive software. My work focuses on clean application logic, real-time interaction systems, backend integrations, analytics, crash monitoring, performance optimization, and user-focused software experiences.
 </p>
 
 - 💻 I work as a **Software Engineer** with experience in mobile apps, games, and backend-connected features.
