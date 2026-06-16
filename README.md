@@ -1,109 +1,110 @@
-<h1 align="center">Hi 👋, I'm Shahzaib</h1>
+<div align="center">
 
-<h3 align="center">Software Engineer | Mobile Application Developer | Game Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shahzaib%20Ali&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%C2%B7%20Web%20Engineer%20%C2%B7%20AI%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  I am a Software Engineer with 3+ years of experience building production-ready mobile applications, games, and interactive software. My work focuses on clean application logic, real-time interaction systems, backend integrations, analytics, crash monitoring, performance optimization, and user-focused software experiences.
-</p>
+</div>
 
-- 💻 I work as a **Software Engineer** with experience in mobile apps, games, and backend-connected features.
+<div align="center">
 
-- 🎮 I have hands-on experience in **Unity, C#, gameplay systems, real-time interactions, progression flows, rewards, tutorials, and mobile UI workflows**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaibali0)
+[![GitHub](https://img.shields.io/badge/GitHub-shahzaibali0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahzaibali0)
+[![Email](https://img.shields.io/badge/Email-shahzaibali4412@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzaibali4412@gmail.com)
 
-- 📱 I build mobile applications using **Unity, Flutter, Firebase, REST APIs, Android, and iOS workflows**.
+</div>
 
-- 🔥 I work with **Firebase Analytics, Firebase Crashlytics, Remote Config, REST API integrations, and cloud-connected features**.
+---
 
-- ⚙️ I focus on **debugging, performance optimization, device testing, crash fixing, and production stability**.
+## 🕹️ About Me
 
-- 🌱 I’m currently improving my skills in **software architecture, mobile engineering, Unity, Flutter, backend integration, and AI-assisted development tools**.
+Hey! I'm **Shahzaib** — a **Game Developer**, **Web Engineer**, and **AI Builder** who loves turning ideas into interactive experiences.
 
-- 📫 How to reach me **shahzaibali4412@gmail.com**
+I build immersive games with **Unity & C#**, craft full-stack web applications using **Laravel, TypeScript & REST APIs**, and engineer intelligent systems like **RAG-powered AI chatbots** using modern LLM pipelines.
 
-<h3 align="left">Connect with me:</h3>
+What drives me is sitting at the intersection of **gameplay**, **the web**, and **AI** — three domains that rarely meet, but produce something remarkable when they do.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+- 🎮 **Unity (C#)** game developer — mechanics, systems, and polished gameplay loops
+- 🌐 **Laravel + TypeScript** web engineer — clean APIs and modern frontends
+- 🤖 **RAG / AI chatbot** builder — retrieval-augmented generation & LLM integration
+- 📍 Based in **Pakistan** — open to remote opportunities worldwide
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Tech Stack
 
-<p align="left"> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
+**Game Development**
 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-</a> 
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-</a> 
+**Web Development**
 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
-</a> 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=postman&logoColor=white)
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
-</a> 
+**AI & LLMs**
 
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
-</a> 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
 
-<a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> 
-</a> 
+**Tools & Platforms**
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
+---
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
+## 📊 GitHub Stats
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</a> 
+<div align="center">
 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-</a> 
+<img src="https://github-readme-stats.vercel.app/api?username=shahzaibali0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibali0&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" height="165"/>
 
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
-</a> 
+</div>
 
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> 
-</a> 
-</p>
+<div align="center">
 
-<h3 align="left">Core Skills:</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaibali0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="160"/>
 
-- Mobile Application Development  
-- Game Development  
-- Real-Time Interactive Systems  
-- Backend Integration  
-- Firebase Analytics & Crashlytics  
-- REST API Integration  
-- Mobile Performance Optimization  
-- Production Debugging & Stability  
-- User-Focused Software Development  
+</div>
 
-<p align="center">
-  Building reliable, scalable, and user-focused software.
-</p>
+---
+
+## 🚀 What I'm Working On
+
+- 🎮 Developing a new Unity game with procedural systems and custom physics
+- 🌐 Building scalable Laravel APIs with TypeScript frontends
+- 🤖 Shipping a RAG-based AI assistant using LangChain + vector search
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **remote roles**, **freelance projects**, and **collabs** across game dev, web engineering, and AI.
+
+If you're building something interesting — let's talk.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaibali0)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzaibali4412@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahzaibali0)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=shahzaibali0&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
