@@ -1,120 +1,83 @@
+![banner](./GitHub%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shahzaib</h1>
+<h3 align="center">Full Stack Web Developer | .NET & Angular | Ex-Game Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaibali0&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaibali0" /> </p>
 
-<h3 align="center">Software Engineer | Mobile Application Developer | Game Developer</h3>
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
-<p align="center">
-  I am a Software Engineer with 3+ years of experience building production-ready mobile applications, games, and interactive software. My work focuses on clean application logic, real-time interaction systems, backend integrations, analytics, crash monitoring, performance optimization, and user-focused software experiences.
+<p align="left">
+  Software Engineer with 4+ years of experience. I build full stack web and enterprise applications with <b>.NET, C#, and Angular</b> — backed by a game and mobile development background in <b>Unity and C#</b>, which is where my C# foundation comes from.
 </p>
 
-- 💻 I work as a **Software Engineer** with experience in mobile apps, games, and backend-connected features.
+- 🌐 I build **full stack web applications** with **.NET, C#, ASP.NET Core, Web API, Angular, TypeScript, and SQL**
 
-- 🎮 I have hands-on experience in **Unity, C#, gameplay systems, real-time interactions, progression flows, rewards, tutorials, and mobile UI workflows**.
+- 🎮 Previously a **Game Developer** — **Unity, C#**, gameplay systems, real-time interactions, progression flows, rewards, and tutorials
 
-- 📱 I build mobile applications using **Unity, Flutter, Firebase, REST APIs, Android, and iOS workflows**.
+- 🔗 Same language, both worlds: **C# in Unity carries straight over to .NET**, so gameplay logic and enterprise backends share one skill set
 
-- 🌐 I also build web and enterprise applications using **.NET, C#, and Angular**.
+- 📱 I also ship **mobile applications** using **Flutter, Firebase, REST APIs, Android, and iOS workflows**
 
-- 🔥 I work with **Firebase Analytics, Firebase Crashlytics, Remote Config, REST API integrations, and cloud-connected features**.
+- 🔥 I work with **Firebase Analytics, Crashlytics, Remote Config, and REST API integrations**
 
-- ⚙️ I focus on **debugging, performance optimization, device testing, crash fixing, and production stability**.
+- ⚙️ I focus on **debugging, performance optimization, device testing, and production stability**
 
-- 🌱 I’m currently improving my skills in **software architecture, mobile engineering, Unity, Flutter, backend integration, and AI-assisted development tools**.
+- 🌱 I'm currently learning **System Design, Cloud (Azure), and Gen AI**
+
+- 💬 Ask me about **.NET, C#, ANGULAR, UNITY, FLUTTER, FIREBASE, and REST APIs**
 
 - 📫 How to reach me **shahzaibali4412@gmail.com**
 
+<!-- 👨‍💻 All of my projects are available at **<ADD PORTFOLIO LINK HERE>** -->
+<!-- 📄 Know about my experiences **<ADD PORTFOLIO LINK HERE>** -->
+
+<div>
+<a href="https://www.linkedin.com/in/shahzaib-ghulam-hussain-892954214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/shahzaibali0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="mailto:shahzaibali4412@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-<a href="https://www.linkedin.com/in/shahzaib-ghulam-hussain-892954214" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://github.com/shahzaibali0" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
+<a href="https://www.linkedin.com/in/shahzaib-ghulam-hussain-892954214" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://github.com/shahzaibali0" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> 
-
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> 
-</a> 
-
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
-</a> 
-
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-</a> 
-
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-</a> 
-
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
-</a> 
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</a> 
-
-<a href="https://github.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-</a> 
-
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> 
-</a> 
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
 </p>
 
 <h3 align="left">Core Skills:</h3>
 
-- Mobile Application Development  
-- Game Development  
-- Web & Enterprise Development (.NET / Angular)  
-- Real-Time Interactive Systems  
-- Backend Integration  
-- Firebase Analytics & Crashlytics  
-- REST API Integration  
-- Mobile Performance Optimization  
-- Production Debugging & Stability  
-- User-Focused Software Development  
+- Full Stack Web Development (.NET / C# / Angular)
+- REST API Design & Backend Integration
+- Enterprise Application Development
+- Game Development (Unity / C#) — previous experience
+- Real-Time Interactive Systems
+- Mobile Application Development (Flutter / Firebase)
+- Firebase Analytics & Crashlytics
+- Performance Optimization
+- Production Debugging & Stability
+- User-Focused Software Development
 
-<p align="center">
-  Building reliable, scalable, and user-focused software.
-</p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
