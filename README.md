@@ -12,6 +12,8 @@
 
 - 📱 I build mobile applications using **Unity, Flutter, Firebase, REST APIs, Android, and iOS workflows**.
 
+- 🌐 I also build web and enterprise applications using **.NET, C#, and Angular**.
+
 - 🔥 I work with **Firebase Analytics, Firebase Crashlytics, Remote Config, REST API integrations, and cloud-connected features**.
 
 - ⚙️ I focus on **debugging, performance optimization, device testing, crash fixing, and production stability**.
@@ -23,11 +25,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+<a href="https://www.linkedin.com/in/shahzaib-ghulam-hussain-892954214" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="blank">
+<a href="https://github.com/shahzaibali0" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" />
 </a>
 </p>
@@ -37,6 +39,14 @@
 <p align="left"> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+</a> 
+
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> 
+</a> 
+
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
 </a> 
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
@@ -96,6 +106,7 @@
 
 - Mobile Application Development  
 - Game Development  
+- Web & Enterprise Development (.NET / Angular)  
 - Real-Time Interactive Systems  
 - Backend Integration  
 - Firebase Analytics & Crashlytics  
