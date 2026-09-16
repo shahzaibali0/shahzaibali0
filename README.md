@@ -6,19 +6,13 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
-- 🌐 I work as a **Full Stack Web Developer** with **4+ years** of experience — **.NET, C#, ASP.NET Core, Web API, Angular, TypeScript, SQL**
-
-- 💼 I've built **multiple web projects** end to end — backend APIs, databases, and responsive Angular frontends
+- 🌐 I'm a **Full Stack Web Developer** with **4+ years** of experience, building web apps end to end with **.NET, C#, ASP.NET Core, Web API, Angular, and SQL**
 
 - 🎮 Previously a **Game Developer** — **Unity & C#**, gameplay systems, real-time interactions, and shipped mobile titles
 
-- 🔗 Same **C#** across both, so gameplay logic and enterprise backends run on one skill set
-
-- 📱 I also build mobile apps with **Flutter, Firebase, and REST APIs**
-
 - 🌱 I'm currently learning **System Design, Azure, and Gen AI**
 
-- 💬 Ask me about **.NET, C#, ANGULAR, UNITY, FLUTTER, FIREBASE, and REST APIs**
+- 💬 Ask me about **.NET, C#, ASP.NET CORE, ANGULAR, UNITY, FLUTTER, FIREBASE, and REST APIs**
 
 - 📫 How to reach me **shahzaibali4412@gmail.com**
 
