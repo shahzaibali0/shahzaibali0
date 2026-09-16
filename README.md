@@ -6,23 +6,17 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
-<p align="left">
-  Software Engineer with 4+ years of experience. I build full stack web and enterprise applications with <b>.NET, C#, and Angular</b> — backed by a game and mobile development background in <b>Unity and C#</b>, which is where my C# foundation comes from.
-</p>
+- 🌐 I work as a **Full Stack Web Developer** with **4+ years** of experience — **.NET, C#, ASP.NET Core, Web API, Angular, TypeScript, SQL**
 
-- 🌐 I build **full stack web applications** with **.NET, C#, ASP.NET Core, Web API, Angular, TypeScript, and SQL**
+- 💼 I've built **multiple web projects** end to end — backend APIs, databases, and responsive Angular frontends
 
-- 🎮 Previously a **Game Developer** — **Unity, C#**, gameplay systems, real-time interactions, progression flows, rewards, and tutorials
+- 🎮 Previously a **Game Developer** — **Unity & C#**, gameplay systems, real-time interactions, and shipped mobile titles
 
-- 🔗 Same language, both worlds: **C# in Unity carries straight over to .NET**, so gameplay logic and enterprise backends share one skill set
+- 🔗 Same **C#** across both, so gameplay logic and enterprise backends run on one skill set
 
-- 📱 I also ship **mobile applications** using **Flutter, Firebase, REST APIs, Android, and iOS workflows**
+- 📱 I also build mobile apps with **Flutter, Firebase, and REST APIs**
 
-- 🔥 I work with **Firebase Analytics, Crashlytics, Remote Config, and REST API integrations**
-
-- ⚙️ I focus on **debugging, performance optimization, device testing, and production stability**
-
-- 🌱 I'm currently learning **System Design, Cloud (Azure), and Gen AI**
+- 🌱 I'm currently learning **System Design, Azure, and Gen AI**
 
 - 💬 Ask me about **.NET, C#, ANGULAR, UNITY, FLUTTER, FIREBASE, and REST APIs**
 
@@ -66,18 +60,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
 </p>
-
-<h3 align="left">Core Skills:</h3>
-
-- Full Stack Web Development (.NET / C# / Angular)
-- REST API Design & Backend Integration
-- Enterprise Application Development
-- Game Development (Unity / C#) — previous experience
-- Real-Time Interactive Systems
-- Mobile Application Development (Flutter / Firebase)
-- Firebase Analytics & Crashlytics
-- Performance Optimization
-- Production Debugging & Stability
-- User-Focused Software Development
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
