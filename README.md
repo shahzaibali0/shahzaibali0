@@ -7,6 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=9198A1&center=true&vCenter=true&width=760&height=30&lines=Senior+AI+%26+Full-Stack+Engineer;.NET+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+AI-powered+products;C%23+%C2%B7+ASP.NET+Core+%C2%B7+React+%C2%B7+Gen+AI" alt="Senior AI and Full-Stack Engineer — .NET, Next.js, Angular, React, and Gen AI" />
 
 <p>
+  <a href="https://www.linkedin.com/in/shahzaib-ghulam-hussain-892954214"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:shahzaibali4412@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/shahzaibali0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="Doha, Qatar" src="https://img.shields.io/badge/Doha,%20Qatar-6B7280?style=for-the-badge&logo=googlemaps&logoColor=white">
   <img src="https://komarev.com/ghpvc/?username=shahzaibali0&style=for-the-badge&color=F59E0B&label=VIEWS" alt="Profile views" />
 </p>
 
@@ -51,18 +55,6 @@ I build full-stack products end to end with reliable **.NET and ASP.NET Core API
     </td>
   </tr>
 </table>
-
-<div>
-<a href="https://www.linkedin.com/in/shahzaib-ghulam-hussain-892954214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/shahzaibali0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="mailto:shahzaibali4412@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shahzaib-ghulam-hussain-892954214" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://github.com/shahzaibali0" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
