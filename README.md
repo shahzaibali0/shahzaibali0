@@ -1,10 +1,18 @@
 ![banner](./GitHub%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Shahzaib</h1>
-<h3 align="center">Full Stack Web Developer | .NET & Angular </h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&height=56&lines=Shahzaib" alt="Shahzaib" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=9198A1&center=true&vCenter=true&width=760&height=30&lines=Full+Stack+Web+Developer;.NET+%C2%B7+Angular+%C2%B7+REST+APIs;Next.js+%C2%B7+React+%C2%B7+Tailwind+CSS" alt="Full Stack Web Developer — .NET, Angular, Next.js, React, and Tailwind CSS" />
+
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaibali0&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaibali0" /> </p>
 
+<!--
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+-->
 
 - 🌐 I'm a **Full Stack Web Developer** with **4+ years** of experience, building web apps end to end with **.NET, C#, ASP.NET Core, Web API, Angular, and SQL**, plus **Next.js, React, and Tailwind CSS** on the frontend
 
@@ -18,6 +26,35 @@
 
 <!-- 👨‍💻 All of my projects are available at **<ADD PORTFOLIO LINK HERE>** -->
 <!-- 📄 Know about my experiences **<ADD PORTFOLIO LINK HERE>** -->
+
+<h3>⚡ Selected work</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Full-Stack Web Applications</b><br/>
+      <sub>End-to-end web applications with robust .NET backends and responsive Angular interfaces.</sub><br/>
+      <code>C#</code> <code>ASP.NET Core</code> <code>Angular</code> <code>SQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>REST API Systems</b><br/>
+      <sub>Structured Web APIs connecting modern frontends to reliable business logic and data layers.</sub><br/>
+      <code>.NET</code> <code>Web API</code> <code>SQL Server</code> <code>PostgreSQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Modern Frontend Experiences</b><br/>
+      <sub>Fast, maintainable user interfaces built with component-based web technologies.</sub><br/>
+      <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>Mobile Game Development</b><br/>
+      <sub>Gameplay systems and real-time interactions for shipped mobile game experiences.</sub><br/>
+      <code>Unity</code> <code>C#</code> <code>Firebase</code> <code>Android</code> <code>iOS</code>
+    </td>
+  </tr>
+</table>
 
 <div>
 <a href="https://www.linkedin.com/in/shahzaib-ghulam-hussain-892954214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
