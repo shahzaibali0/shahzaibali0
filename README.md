@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&height=56&lines=Shahzaib" alt="Shahzaib" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=9198A1&center=true&vCenter=true&width=760&height=30&lines=Full+Stack+Web+Developer;.NET+%C2%B7+Angular+%C2%B7+REST+APIs;Next.js+%C2%B7+React+%C2%B7+Tailwind+CSS" alt="Full Stack Web Developer — .NET, Angular, Next.js, React, and Tailwind CSS" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=9198A1&center=true&vCenter=true&width=760&height=30&lines=Senior+AI+%26+Full-Stack+Engineer;.NET+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+AI-powered+products;C%23+%C2%B7+ASP.NET+Core+%C2%B7+React+%C2%B7+Gen+AI" alt="Senior AI and Full-Stack Engineer — .NET, Next.js, Angular, React, and Gen AI" />
 
 </div>
 
@@ -14,13 +14,15 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 -->
 
-- 🌐 I'm a **Full Stack Web Developer** with **4+ years** of experience, building web apps end to end with **.NET, C#, ASP.NET Core, Web API, Angular, and SQL**, plus **Next.js, React, and Tailwind CSS** on the frontend
+- 🌐 I'm a **Senior AI & Full-Stack Engineer** with **4+ years** of experience, building web products end to end with **.NET, C#, ASP.NET Core, Web API, Angular, and SQL**, plus **Next.js, React, and Tailwind CSS** on the frontend
+
+- 🤖 I bring AI into practical products by combining **Gen AI capabilities**, reliable **.NET APIs**, and modern **Next.js** experiences
 
 - 🎮 Previously a **Game Developer** — **Unity & C#**, gameplay systems, real-time interactions, and shipped mobile titles
 
-- 🌱 I'm currently learning **System Design, Azure, and Gen AI**
+- 🌱 I'm currently focused on **System Design, Azure, Gen AI integrations, and AI-powered product development**
 
-- 💬 Ask me about **.NET, C#, ASP.NET CORE, ANGULAR, UNITY, FIREBASE, and REST APIs**
+- 💬 Ask me about **.NET, C#, ASP.NET Core, Next.js, Angular, AI integrations, Unity, Firebase, and REST APIs**
 
 - 📫 How to reach me **shahzaibali4412@gmail.com**
 
@@ -32,20 +34,20 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Full-Stack Web Applications</b><br/>
-      <sub>End-to-end web applications with robust .NET backends and responsive Angular interfaces.</sub><br/>
+      <b>Enterprise .NET Applications</b><br/>
+      <sub>End-to-end business applications with robust .NET backends and responsive Angular interfaces.</sub><br/>
       <code>C#</code> <code>ASP.NET Core</code> <code>Angular</code> <code>SQL</code>
     </td>
     <td width="50%" valign="top">
-      <b>REST API Systems</b><br/>
-      <sub>Structured Web APIs connecting modern frontends to reliable business logic and data layers.</sub><br/>
-      <code>.NET</code> <code>Web API</code> <code>SQL Server</code> <code>PostgreSQL</code>
+      <b>AI-Powered Full-Stack Products</b><br/>
+      <sub>Product experiences that combine reliable .NET APIs, modern Next.js interfaces, and practical Gen AI features.</sub><br/>
+      <code>Gen AI</code> <code>.NET</code> <code>Next.js</code> <code>REST APIs</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>Modern Frontend Experiences</b><br/>
-      <sub>Fast, maintainable user interfaces built with component-based web technologies.</sub><br/>
+      <b>Modern Product Frontends</b><br/>
+      <sub>Fast, maintainable product interfaces built with component-based web technologies.</sub><br/>
       <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
     <td width="50%" valign="top">
@@ -92,5 +94,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
 </p>
+
+<sub><b>AI &amp; product engineering</b></sub>&nbsp;
+![Gen AI](https://img.shields.io/badge/Gen_AI-0E75B6?style=flat-square)
+![AI Integration](https://img.shields.io/badge/AI_Integration-0E75B6?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
