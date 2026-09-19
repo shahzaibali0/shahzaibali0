@@ -16,17 +16,9 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 -->
 
-- 🌐 I'm a **Senior AI & Full-Stack Engineer** with **4+ years** of experience, building web products end to end with **.NET, C#, ASP.NET Core, Web API, Angular, and SQL**, plus **Next.js, React, and Tailwind CSS** on the frontend
+I build full-stack and AI-powered products end to end — reliable **.NET and ASP.NET Core APIs**, responsive **Angular and Next.js** interfaces, and practical **Gen AI integrations**. With 4+ years in software development, I focus on clean architecture, dependable systems, and products that are ready to ship.
 
-- 🤖 I bring AI into practical products by combining **Gen AI capabilities**, reliable **.NET APIs**, and modern **Next.js** experiences
-
-- 🎮 Previously shipped mobile games with **Unity and C#**, strengthening my experience in interactive systems and performance
-
-- 🌱 I'm currently focused on **System Design, Azure, Gen AI integrations, and AI-powered product development**
-
-- 💬 Ask me about **.NET, C#, ASP.NET Core, Next.js, Angular, AI integrations, Unity, Firebase, and REST APIs**
-
-- 📫 How to reach me **shahzaibali4412@gmail.com**
+> Before moving into web and AI, I shipped mobile games with **Unity and C#** — experience that sharpened how I approach performance, state, and interactive products.
 
 <!-- 👨‍💻 All of my projects are available at **<ADD PORTFOLIO LINK HERE>** -->
 <!-- 📄 Know about my experiences **<ADD PORTFOLIO LINK HERE>** -->
